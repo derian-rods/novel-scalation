@@ -1,0 +1,15 @@
+# Build y dependencias
+node_modules/
+dist/
+.nuxt/
+output/
+
+# Configs y envs
+*.config.js
+.env
+.env.*
+
+# Archivos generados
+*.log
+*.min.js
+*.lock
